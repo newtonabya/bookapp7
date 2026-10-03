@@ -1,0 +1,6 @@
+{
+  "name": "Folio & Spine — Online Bookstore & Publishing Platform",
+  "description": "Editorial bookstore and publishing platform with dynamic Flutterwave secret key injection, multi-role RBAC dashboards, and interactive user flow navigation diagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
